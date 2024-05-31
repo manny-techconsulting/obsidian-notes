@@ -1,0 +1,68 @@
+#### Categories
+**DDL**: Data Definition Language
+**DQL**: Data Query Language
+**DML**: Data Manipulation Language
+**DCL**: Data Control Language
+**TCL**: Transaction Control Language
+
+##### Commands
+
+###### DDL
+CREATE
+DROP
+ALTER
+TRUNCATE
+RENAME 
+COMMENT
+
+###### DQL
+SELECT
+
+###### DML
+INSERT
+UPDATE
+DELETE
+LOCK 
+CALL 
+EXPLAIN PLAN
+
+###### DCL
+GRANT
+REVOKE
+
+###### TCL
+COMMIT
+ROLLBACK
+SAVEPOINT
+SET TRANSACTION
+
+#### OPERATORS
+ARITHMETIC
+BITWISE
+COMPARISON
+COMPOUND
+LOGICAL
+
+IMPORTANT KEYWORDS
+
+DATABASE OBJECTS
+
+CONSTRAINTS
+Primary Key
+Foreign Key
+Not Null
+Unique
+Check
+Default
+
+
+AGGREGATE FUNCTIONS
+
+AGGREGATE KEYWORDS
+
+JOINS
+
+SET OPERATIONS
+
+
+
